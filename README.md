@@ -9,7 +9,7 @@ $${\color{red}{}}$$
 This repository stores the data, files, code and other documents necessary for the completion of the Master thesis of [Antonio Magherini](https://nl.linkedin.com/in/antonio-magherini-4349b2229), student of the MSc Civil Engineering program - Hydraulic Engineering track, with a specialization in River Engineering 
 at the [Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/citg) of Delft University of Technology (TU Delft).
 \
-The thesis was developed in collaboration with [Deltares](https://www.deltares.nl/en). The report can be found on [TU Delft repository](https://repository.tudelft.nl/record/uuid:38ea0798-dd3d-4be2-b937-b80621957348).
+The thesis was developed in collaboration with [Deltares](https://www.deltares.nl/en). The report can be found at [TU Delft repository](https://repository.tudelft.nl/record/uuid:38ea0798-dd3d-4be2-b937-b80621957348).
 
 The thesis committee of this project is composed of Dr. Riccardo Taormina (Committee chairman, TU Delft), Dr. ir. Erik Mosselman (Main supervisor, Deltares & TU Delft), and Dr. Víctor Chavarrías (Supervisor, Deltares).
 
