@@ -16,8 +16,8 @@ The thesis committee of this project is composed of Dr. Riccardo Taormina (Commi
 For any information, feel free to contact the author at the following email addresses:
 <ol>
   <li>antonio.magherini@gmail.com (private account, recommended).</li>
-  <li>Antonio.Magherini@deltares.nl (institute account, will stop to exist after the graduation)</li>
-  <li>A.Magherini@student.tudelft.nl (student account, will stop to exist after the graduation);</li>
+  <li>Antonio.Magherini@deltares.nl (institute account, will stop to exist after the graduation).</li>
+  <li>A.Magherini@student.tudelft.nl (student account, will stop to exist after the graduation).</li>
 </ol>
 
 The structure of this repository is the following:
