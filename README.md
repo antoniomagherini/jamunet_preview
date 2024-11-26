@@ -13,12 +13,7 @@ The thesis was developed in collaboration with [Deltares](https://www.deltares.n
 
 The thesis committee of this project is composed of Dr. Riccardo Taormina (Committee chairman, TU Delft), Dr. ir. Erik Mosselman (Main supervisor, Deltares & TU Delft), and Dr. Víctor Chavarrías (Supervisor, Deltares).
 
-For any information, feel free to contact the author at the following email addresses:
-<ol>
-  <li>antonio.magherini@gmail.com (private account, recommended).</li>
-  <li>Antonio.Magherini@deltares.nl (institute account, will stop to exist after the graduation).</li>
-  <li>A.Magherini@student.tudelft.nl (student account, will stop to exist after the graduation).</li>
-</ol>
+For any information, feel free to contact the author at the following email address: _antonio.magherini@gmail.com_.
 
 The structure of this repository is the following:
 - <code>benchmarks</code>, contains modules and notebooks of the benhcmark models used for comparison;
