@@ -11,7 +11,7 @@ at the [Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/cit
 \
 The thesis was developed in collaboration with [Deltares](https://www.deltares.nl/en). The report can be found at [TU Delft repository](https://repository.tudelft.nl/record/uuid:38ea0798-dd3d-4be2-b937-b80621957348).
 
-The thesis committee of this project is composed of Dr. Riccardo Taormina (Committee chairman, TU Delft), Dr. ir. Erik Mosselman (Main supervisor, Deltares & TU Delft), and Dr. Víctor Chavarrías (Supervisor, Deltares).
+The thesis committee of this project is composed of Dr. Riccardo Taormina (Committee chairman, TU Delft), Dr. ir. Erik Mosselman (Main supervisor, Deltares & TU Delft), and Dr. ir. Víctor Chavarrías (Supervisor, Deltares).
 
 For any information, feel free to contact the author at the following email address: _antonio.magherini@gmail.com_.
 
