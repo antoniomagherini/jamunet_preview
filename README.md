@@ -4,28 +4,9 @@ $${\color{red}{}}$$
 
 🔴 Attention! 🔴
 \
-*The public repository is under development. The data, code and necessary documents will be available soon. For any information you can contact me at **antonio.magherini@gmail.com**.* 
-
-This repository stores the data, files, code and other documents necessary for the completion of the Master thesis of [Antonio Magherini](https://nl.linkedin.com/in/antonio-magherini-4349b2229), student of the MSc Civil Engineering program - Hydraulic Engineering track, with a specialization in River Engineering 
-at the [Faculty of Civil Engineering and Geosciences](https://www.tudelft.nl/citg) of Delft University of Technology (TU Delft).
+**The public repository is now available [here](https://github.com/antoniomagherini/jamunet-morpho-braided)!** 
 \
-The thesis was developed in collaboration with [Deltares](https://www.deltares.nl/en). The report can be found at [TU Delft repository](https://repository.tudelft.nl/record/uuid:38ea0798-dd3d-4be2-b937-b80621957348).
-
-The thesis committee of this project is composed of Dr. Riccardo Taormina (Committee chairman, TU Delft), Dr. ir. Erik Mosselman (Main supervisor, Deltares & TU Delft), and Dr. ir. Víctor Chavarrías (Supervisor, Deltares).
-
-For any information, feel free to contact the author at the following email address: _antonio.magherini@gmail.com_.
-
-The structure of this repository is the following:
-- <code>benchmarks</code>, contains modules and notebooks of the benhcmark models used for comparison;
-- <code>data</code>, contains raw data (hydraulic data, data from [Jagers (2003)](https://research.utwente.nl/en/publications/modelling-planform-changes-of-braided-rivers), satellite images);
-- <code>images</code>, contains the images shown in the thesis report and other documents;
-- <code>model</code>, contains the modules and noteboooks with the deep-learning model;
-- <code>other</code>, contains documents, images, and other files used during the project;
-- <code>postprocessing</code>, contains the modules used for the postprocessing of the data;
-- <code>preliminary</code>, contains the notebooks with the preliminary data analysis, satellite images preprocessing and visualization, satellite image preprocessing and other examples;
-- <code>preprocessing</code>, contains the modules used for the preprocessing of the data.
-
-The file <code>braided.yml</code> is the environment file with all dependencies, needed to run all the notebooks.
+*Some notebooks for preliminary analysis and additional files (not used for the thesis) will be added soon. For any information you can contact me at **antonio.magherini@gmail.com**.* 
 
 <p align="center" style="margin-top: 1px;">
     <!-- <img src="images\jamuna_narrow_.png" alt>  -->
